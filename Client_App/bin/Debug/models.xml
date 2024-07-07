@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UY454W</NumberVechicle>
+        <NameMultimedia>QW406L86BSM4</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>WW528I</NumberVechicle>
+        <NameMultimedia>SO582B90VJX4</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XJ324N</NumberVechicle>
+        <NameMultimedia>QO641K51MXJ1</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>DB358P</NumberVechicle>
+        <NameMultimedia>NV868A86BMO2</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>SE917W</NumberVechicle>
+        <NameMultimedia>MV589T74FVB7</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>AU796D</NumberVechicle>
+        <NameMultimedia>PY003C24LZE2</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>DR296C</NumberVechicle>
+        <NameMultimedia>FK424U80HYK9</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>HN755X</NumberVechicle>
+        <NameMultimedia>LJ926W94SIM8</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XE486O</NumberVechicle>
+        <NameMultimedia>GH155F72RPY7</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QV415O</NumberVechicle>
+        <NameMultimedia>XJ394O69RCA9</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>RE246M</NumberVechicle>
+        <NameMultimedia>DQ803S44WCU3</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>RW910Z</NumberVechicle>
+        <NameMultimedia>NS555A84CMO9</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>KG525S</NumberVechicle>
+        <NameMultimedia>DF163S68GUE1</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>BMV</Brand>
+    <NameModel>modelbmv1</NameModel>
+    <PowerEngine>100</PowerEngine>
+    <MaxSpeed>250</MaxSpeed>
+  </Model>
+  <Model xsi:type="Truck">
+    <vehicles>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ML278X</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>FG913D</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>XP410Y</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>HN024X</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AQ696U</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>14</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>KS330F</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>UI423L</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>YX892D</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>VZ969D</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>EX485U</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QT315D</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QK422C</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>XC327H</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+    </vehicles>
+    <Brand>SCANIA</Brand>
+    <NameModel>modelscania1</NameModel>
+    <PowerEngine>300</PowerEngine>
+    <MaxSpeed>150</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YH761X</NumberVechicle>
+        <NameMultimedia>VN897C19FJS0</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XX087P</NumberVechicle>
+        <NameMultimedia>OQ795H25LJY3</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FW036K</NumberVechicle>
+        <NameMultimedia>GD820R87NBE8</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>JF793L</NumberVechicle>
+        <NameMultimedia>WP584J01OAV7</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IK758X</NumberVechicle>
+        <NameMultimedia>NN031C53DAD1</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OR608S</NumberVechicle>
+        <NameMultimedia>PQ152L74HYK1</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YJ516I</NumberVechicle>
+        <NameMultimedia>WS058S78VRU7</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IW351S</NumberVechicle>
+        <NameMultimedia>JA026Y05HEC4</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>WX566N</NumberVechicle>
+        <NameMultimedia>RV651Q49CCA0</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>ZV689X</NumberVechicle>
+        <NameMultimedia>RF565J42GLH6</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>BN340Z</NumberVechicle>
+        <NameMultimedia>MC421B43MAG7</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>WL290U</NumberVechicle>
+        <NameMultimedia>FG768I14XML1</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>LP734N</NumberVechicle>
+        <NameMultimedia>YB721N91TPG4</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UF374V</NumberVechicle>
+        <NameMultimedia>YA406D07HHS8</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>BMV</Brand>
+    <NameModel>modebmv2</NameModel>
+    <PowerEngine>120</PowerEngine>
+    <MaxSpeed>270</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OZ817W</NumberVechicle>
+        <NameMultimedia>GA988B45YSA9</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FD145W</NumberVechicle>
+        <NameMultimedia>AS049C80CHD1</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>VJ730X</NumberVechicle>
+        <NameMultimedia>NO367G35OKU3</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>VO948T</NumberVechicle>
+        <NameMultimedia>EL465V80KWJ8</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>JL347S</NumberVechicle>
+        <NameMultimedia>SG464T62IHK3</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>SB060X</NumberVechicle>
+        <NameMultimedia>KH170Z98NJE5</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>AX971U</NumberVechicle>
+        <NameMultimedia>DO714A30ZHJ7</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IL076N</NumberVechicle>
+        <NameMultimedia>UW791X62HVC3</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>TV502A</NumberVechicle>
+        <NameMultimedia>PX829L18WPV2</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>AH770O</NumberVechicle>
+        <NameMultimedia>JC812B20DMX0</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XW959R</NumberVechicle>
+        <NameMultimedia>SV469V28GLB7</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QN079Y</NumberVechicle>
+        <NameMultimedia>FC636U74SDI2</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>VO611K</NumberVechicle>
+        <NameMultimedia>VI864E07ZKU2</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>LQ100F</NumberVechicle>
+        <NameMultimedia>BS111W97XCW9</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>CX209N</NumberVechicle>
+        <NameMultimedia>UB533A67WEK6</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>ID175O</NumberVechicle>
+        <NameMultimedia>FH885V79XOJ1</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>KZ287C</NumberVechicle>
+        <NameMultimedia>FD876H86GZT5</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>HM267M</NumberVechicle>
+        <NameMultimedia>IQ838H56NJX2</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>AUDI</Brand>
+    <NameModel>modelaudi1</NameModel>
+    <PowerEngine>130</PowerEngine>
+    <MaxSpeed>220</MaxSpeed>
+  </Model>
+  <Model xsi:type="Truck">
+    <vehicles>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RW361L</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>NI278I</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RT887H</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>13</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CT222Y</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>GT805T</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>14</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>PO291S</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AW106N</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RH028Y</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>OR201Y</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QE645Q</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ID134A</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ZI730N</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>NY718E</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>XE740W</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ZF128C</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>IH119L</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>13</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>IE299P</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>UN284N</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>TH067R</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+    </vehicles>
+    <Brand>Scania</Brand>
+    <NameModel>modelScani2</NameModel>
+    <PowerEngine>1000</PowerEngine>
+    <MaxSpeed>200</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>TT468F</NumberVechicle>
+        <NameMultimedia>JV990H54EAD2</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>ZW554P</NumberVechicle>
+        <NameMultimedia>WD595L71KPO0</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YF933S</NumberVechicle>
+        <NameMultimedia>VA174R44XWD9</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IG204O</NumberVechicle>
+        <NameMultimedia>NJ054B09AUW2</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UW084W</NumberVechicle>
+        <NameMultimedia>ZJ254Q89SSZ9</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FL052K</NumberVechicle>
+        <NameMultimedia>PO419Y75MMF3</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>PD140V</NumberVechicle>
+        <NameMultimedia>FD138Y24NIW4</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>HL915N</NumberVechicle>
+        <NameMultimedia>XI424P33FBI5</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>EL313B</NumberVechicle>
+        <NameMultimedia>QH916T75IDF9</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YX698F</NumberVechicle>
+        <NameMultimedia>OZ249I01XVB8</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XQ335T</NumberVechicle>
+        <NameMultimedia>UW908J58NGT4</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>NR041H</NumberVechicle>
+        <NameMultimedia>SQ640K14RIP3</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>LR916Q</NumberVechicle>
+        <NameMultimedia>UE660R56YFO8</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>BD249L</NumberVechicle>
+        <NameMultimedia>EB216K01RWR8</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>NO994L</NumberVechicle>
+        <NameMultimedia>WM547T11BHK5</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>LS949R</NumberVechicle>
+        <NameMultimedia>QI005R96TMD2</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OR574Y</NumberVechicle>
+        <NameMultimedia>GX134E66CUP5</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UO448C</NumberVechicle>
+        <NameMultimedia>UN351D46RTF1</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>KT166K</NumberVechicle>
+        <NameMultimedia>ZI599P23SZF0</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>Honda</Brand>
+    <NameModel>MOdelExp</NameModel>
+    <PowerEngine>380</PowerEngine>
+    <MaxSpeed>300</MaxSpeed>
+  </Model>
+  <Model xsi:type="Truck">
+    <vehicles>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QW267Q</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>WQ830H</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>14</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>LT544W</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AE362Q</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CA040B</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CU096L</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AF349O</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CF320T</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ZZ758D</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QC592B</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ZR145S</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CW739T</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>YM320H</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>SE032T</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>TM407J</NumberVechicle>
+        <NumberWheels>2</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RI173T</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+    </vehicles>
+    <Brand>Scania</Brand>
+    <NameModel>ModelScania2</NameModel>
+    <PowerEngine>500</PowerEngine>
+    <MaxSpeed>200</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>LB177S</NumberVechicle>
+        <NameMultimedia>HG224V89ZKZ5</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FU311I</NumberVechicle>
+        <NameMultimedia>AN921A52APZ6</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>JC914X</NumberVechicle>
+        <NameMultimedia>TJ048U11KQR0</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>RU301M</NumberVechicle>
+        <NameMultimedia>GO934H77ICW1</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OR454I</NumberVechicle>
+        <NameMultimedia>XK839Y13EPU8</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QF479N</NumberVechicle>
+        <NameMultimedia>BI837N23WAJ7</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>PW654M</NumberVechicle>
+        <NameMultimedia>EJ673Z17PJG7</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>GO556K</NumberVechicle>
+        <NameMultimedia>RU512A22JTN8</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>JS719U</NumberVechicle>
+        <NameMultimedia>KN747R27OBI1</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UJ845H</NumberVechicle>
+        <NameMultimedia>SW488J40NNV4</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>ZE004N</NumberVechicle>
+        <NameMultimedia>UN634K91SZW2</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>CN086K</NumberVechicle>
+        <NameMultimedia>FE202X51BQH8</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>NE214L</NumberVechicle>
+        <NameMultimedia>LH356N88SLC2</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IQ360N</NumberVechicle>
+        <NameMultimedia>VV106B25FXI9</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YY863S</NumberVechicle>
+        <NameMultimedia>BR365C40RXW5</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QQ129P</NumberVechicle>
+        <NameMultimedia>HH681C72BKU6</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>Scania</Brand>
+    <NameModel>modelScania3</NameModel>
+    <PowerEngine>300</PowerEngine>
+    <MaxSpeed>210</MaxSpeed>
+  </Model>
+  <Model xsi:type="Truck">
+    <vehicles>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>JW228G</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>IC340W</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>KK058Q</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>FX304U</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>IC506A</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>UE304Y</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>LE226S</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RO467R</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>HY075Y</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AB103M</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>14</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CO038C</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>14</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QI610I</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>LY039T</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+    </vehicles>
+    <Brand>Scania</Brand>
+    <NameModel>modelScania4</NameModel>
+    <PowerEngine>340</PowerEngine>
+    <MaxSpeed>190</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>XU447M</NumberVechicle>
+        <NameMultimedia>XC556V30UFJ5</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>BI626J</NumberVechicle>
+        <NameMultimedia>ZE203B49RLO3</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>GI557R</NumberVechicle>
+        <NameMultimedia>DW418H27JIW0</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>NS673W</NumberVechicle>
+        <NameMultimedia>YM034N36JJY1</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>HU548U</NumberVechicle>
+        <NameMultimedia>RO019U91WQR8</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>PA739P</NumberVechicle>
+        <NameMultimedia>FA854Y97HVJ8</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>KI635R</NumberVechicle>
+        <NameMultimedia>FV189Y82UDB8</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FU567Z</NumberVechicle>
+        <NameMultimedia>HD114N80ZQK7</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>PY058F</NumberVechicle>
+        <NameMultimedia>VL500O20EIO6</NameMultimedia>
+        <NumberAirbags>8</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>UQ137M</NumberVechicle>
+        <NameMultimedia>TT235U71BNJ9</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OJ622V</NumberVechicle>
+        <NameMultimedia>SW093M89MZZ1</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>EF150Q</NumberVechicle>
+        <NameMultimedia>FI146F61YQX3</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>CR346S</NumberVechicle>
+        <NameMultimedia>AM311Z16ZTJ8</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>KU033B</NumberVechicle>
+        <NameMultimedia>QF829K91QMP2</NameMultimedia>
+        <NumberAirbags>3</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>BMV</Brand>
+    <NameModel>M3</NameModel>
+    <PowerEngine>250</PowerEngine>
+    <MaxSpeed>280</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <vehicles>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QQ017J</NumberVechicle>
+        <NameMultimedia>HA554V58QDP9</NameMultimedia>
+        <NumberAirbags>11</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>NR698G</NumberVechicle>
+        <NameMultimedia>EN871Y86VGK6</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>AP593G</NumberVechicle>
+        <NameMultimedia>PI004U78LOU3</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>VZ079X</NumberVechicle>
+        <NameMultimedia>SU561L76BRH4</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>CW147T</NumberVechicle>
+        <NameMultimedia>BN404N18DJS3</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>GL102G</NumberVechicle>
+        <NameMultimedia>PQ478N79QMV0</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>DT402E</NumberVechicle>
+        <NameMultimedia>UH356H47KUE9</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>PZ364L</NumberVechicle>
+        <NameMultimedia>AT626Z79KXA6</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>YX927Z</NumberVechicle>
+        <NameMultimedia>ZF286Y62MON1</NameMultimedia>
+        <NumberAirbags>7</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>MS336J</NumberVechicle>
+        <NameMultimedia>VE251I13UHI2</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>FF519K</NumberVechicle>
+        <NameMultimedia>LL250Q13WIJ9</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>QY366F</NumberVechicle>
+        <NameMultimedia>FM606Q82OAX7</NameMultimedia>
+        <NumberAirbags>4</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>OK178J</NumberVechicle>
+        <NameMultimedia>WO123G66PDG0</NameMultimedia>
+        <NumberAirbags>2</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>BC594X</NumberVechicle>
+        <NameMultimedia>NS741K39RDZ6</NameMultimedia>
+        <NumberAirbags>9</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>SR403Q</NumberVechicle>
+        <NameMultimedia>XL954O93CJH3</NameMultimedia>
+        <NumberAirbags>10</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>DN452S</NumberVechicle>
+        <NameMultimedia>JY870D79UXO2</NameMultimedia>
+        <NumberAirbags>6</NumberAirbags>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleCar">
+        <NumberVechicle>IG886Q</NumberVechicle>
+        <NameMultimedia>FI358E83LZD7</NameMultimedia>
+        <NumberAirbags>5</NumberAirbags>
+      </IVehicle>
+    </vehicles>
+    <Brand>AUDI</Brand>
+    <NameModel>RS7</NameModel>
+    <PowerEngine>400</PowerEngine>
+    <MaxSpeed>310</MaxSpeed>
+  </Model>
+  <Model xsi:type="Truck">
+    <vehicles>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>QV500O</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>ZC245N</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>12</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>TS813L</NumberVechicle>
+        <NumberWheels>6</NumberWheels>
+        <VoluemBody>13</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AZ319U</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>HK274H</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>10</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>XT245F</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>AB334W</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>13</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>KU284T</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>13</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>RQ094B</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>CX946X</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>11</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>GJ435N</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>VE886X</NumberVechicle>
+        <NumberWheels>4</NumberWheels>
+        <VoluemBody>15</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>GQ240E</NumberVechicle>
+        <NumberWheels>8</NumberWheels>
+        <VoluemBody>8</VoluemBody>
+      </IVehicle>
+      <IVehicle xsi:type="VehicleTruck">
+        <NumberVechicle>WR646O</NumberVechicle>
+        <NumberWheels>10</NumberWheels>
+        <VoluemBody>9</VoluemBody>
+      </IVehicle>
+    </vehicles>
+    <Brand>MAZ</Brand>
+    <NameModel>ModelOne</NameModel>
+    <PowerEngine>800</PowerEngine>
+    <MaxSpeed>200</MaxSpeed>
+  </Model>
+  <Model xsi:type="Car">
+    <Brand>Lada</Brand>
+    <NameModel>Calina</NameModel>
+    <PowerEngine>90</PowerEngine>
+    <MaxSpeed>20</MaxSpeed>
+  </Model>
+  <Model xsi:nil="true" />
+</ArrayOfModel>

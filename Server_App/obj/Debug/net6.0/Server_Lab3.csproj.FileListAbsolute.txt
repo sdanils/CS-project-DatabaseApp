@@ -1,0 +1,17 @@
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Server_Lab3.exe
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Server_Lab3.deps.json
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Server_Lab3.runtimeconfig.json
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Server_Lab3.dll
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Server_Lab3.pdb
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.csproj.AssemblyReference.cache
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.AssemblyInfoInputs.cache
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.AssemblyInfo.cs
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.dll
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\refint\Server_Lab3.dll
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.pdb
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.genruntimeconfig.cache
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\ref\Server_Lab3.dll
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\banil\source\repos\Server_Lab3\Server_Lab3\obj\Debug\net6.0\Server_Lab3.csproj.CopyComplete

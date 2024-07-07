@@ -1,0 +1,15 @@
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\bin\Debug\Lab_Three_WinAdd.exe.config
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\bin\Debug\Lab_Three_WinAdd.exe
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\bin\Debug\Lab_Three_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.csproj.AssemblyReference.cache
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.FormBrandTable.resources
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.Properties.Resources.resources
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.csproj.GenerateResource.cache
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.csproj.CoreCompileInputs.cache
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.exe
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.FormProgressBar.resources
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\banil\source\repos\Lab_Three_WinAdd\Lab_Three_WinAdd\obj\Debug\Lab_Three_WinAdd.csproj.CopyComplete

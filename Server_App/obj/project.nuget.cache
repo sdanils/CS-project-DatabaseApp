@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgSDTqvrR6CZ6H8/26V4rju0hd0MdI2FIB1BiRoSPH7Xwd+LUNDsYEPPOmYB+Hdi5uKMDAWTHM4prpD7BQxUZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\banil\\source\\repos\\Server_Lab3\\Server_Lab3\\Server_Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\banil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
